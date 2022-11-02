@@ -1,17 +1,50 @@
 {
-  "Rice": {
-    "Name": "Rice",
-    "Weight": 25,
-    "PricePerKG": 55
-  },
-  "Wheats": {
-    "Name": "Wheats",
-    "Weight": 50,
-    "PricePerKG": 25
-  },
-  "Pulses": {
-    "Name": "Pulses",
-    "Weight": 50,
-    "PricePerKG": 80
-  }
+  "Rice": [
+    {
+      "Name": "Basmati",
+      "Weight": 25,
+      "PricePerKG": 70
+    },
+    {
+      "Name": "Kolam",
+      "Weight": 25,
+      "PricePerKG": 55
+    }
+  ],
+  "Wheats": [
+    {
+      "Name": "Sonalika",
+      "Weight": 50,
+      "PricePerKG": 20
+    },
+    {
+      "Name": "Purna",
+      "Weight": 50,
+      "PricePerKG": 40
+    }
+  ],
+  "Pulses": [
+    {
+      "Name": "MoongDal",
+      "Weight": 30,
+      "PricePerKG": 60
+    },
+    {
+      "Name": "MasoorDal",
+      "Weight": 30,
+      "PricePerKG": 45
+    }
+  ],
+  "Sorghum": [
+    {
+      "Name": "Ruchira",
+      "Weight": 40,
+      "PricePerKG": 35
+    },
+    {
+      "Name": "Pusa Chari",
+      "Weight": 40,
+      "PricePerKG": 30
+    }
+  ]
 }
